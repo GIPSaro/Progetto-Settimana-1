@@ -71,3 +71,30 @@ figcaption {
 #ceo {
   font-size: 0.5em;
 }
+.card {
+  margin: 50px;
+  border: solid #dee1e3;
+}
+.card img {
+  width: 100%;
+}
+.card p {
+  padding: 0 50px;
+}
+
+footer {
+  background-color: #25a2c3;
+  padding: 60px 30px;
+}
+footer p {
+  color: #c8e7f0;
+}
+footer a {
+  color: #c8e7f0;
+}
+footer h2 {
+  font-size: 3em;
+}
+i {
+  margin-right: 20px;
+}
