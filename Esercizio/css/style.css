@@ -53,3 +53,21 @@ h3 {
 #benefit {
   padding: 60px 30px;
 }
+#quarto {
+  background-color: #d3402b;
+  color: white;
+}
+#testimonianza {
+  padding: 60px 30px;
+}
+h2 {
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.5;
+  color: white;
+}
+figcaption {
+  font-size: 1.5em;
+}
+#ceo {
+  font-size: 0.5em;
+}
