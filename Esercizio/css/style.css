@@ -1,1 +1,55 @@
 /* Your styles here */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Open+Sans&display=swap");
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.2rem;
+  color: #393d41;
+  line-height: 1.65;
+  text-align: center;
+  margin: 0;
+  box-sizing: border-box;
+  width: 100%;
+}
+header {
+  background-color: black;
+}
+header img {
+  margin: 70px 0;
+}
+#corso {
+  background-image: url(../images/banner.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 60px 30px;
+}
+
+button {
+  border-radius: 2px;
+  font-size: 1.2rem;
+  padding: 15px;
+  border-style: none;
+  font-family: "Montserrat";
+  background-color: #f04c2f;
+  font-weight: 800;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-bottom: 1rem;
+}
+#corso a {
+  color: white;
+  text-decoration: none;
+}
+h1,
+h3 {
+  color: #25a2c3;
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.5;
+}
+#terzo img {
+  border-radius: 50%;
+}
+#benefit {
+  padding: 60px 30px;
+}
